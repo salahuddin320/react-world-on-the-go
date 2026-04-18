@@ -1,0 +1,19 @@
+.country{
+    border: 1px solid salmon;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: space-between; */
+    }
+    .country img{
+        width: 100%;
+        height: 150px;
+        object-fit: cover;
+    }
+    .country-visited{
+        background-color: lightgreen;
+        color: black;
+    }
